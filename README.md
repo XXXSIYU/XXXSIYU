@@ -9,8 +9,8 @@ XXXSIYU/XXXSIYU is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 # Samantha Chen
-##I’m interested in fantasy novel.
-##contact 0937111120
+## I’m interested in fantasy novel.
+## contact 0937111120
 [index.html](https://xxxsiyu.github.io/)
 
 ## Major in Management Information System at National Central University, Taiwan.
