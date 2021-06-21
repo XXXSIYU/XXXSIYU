@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @XXXSIYU 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...##html css
+- 👀 I’m interested in fantasy novel.
+- 🌱 I’m currently learning html css.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...##siyuchen@g.ncu.edu.tw
+- 📫 How to reach me ...
 
 <!---
 XXXSIYU/XXXSIYU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
