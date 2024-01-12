@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @XXXSIYU 
-- 👀 I’m interested in fantasy novel.
-- 🌱 I’m currently learning html css.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 0937111120
+  I am a resilient and optimistic individual who embraces challenges with a proactive attitude. Believing in the law of attraction, I am dedicated to continuous skill development and expertise enhancement. Skilled in implementing ideas and maintaining organizational efficiency, I bring reliability, efficiency, and strong self-discipline to my work. Confident in presenting ideas and achieving goals systematically, I am also known for my enthusiasm, sociability, and leadership qualities.                                                
 
 <!---
 XXXSIYU/XXXSIYU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
