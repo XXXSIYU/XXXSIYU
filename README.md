@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @XXXSIYU 
-  I am a resilient and optimistic individual who embraces challenges with a proactive attitude. Believing in the law of attraction, I am dedicated to continuous skill development and expertise enhancement. Skilled in implementing ideas and maintaining organizational efficiency, I bring reliability, efficiency, and strong self-discipline to my work. Confident in presenting ideas and achieving goals systematically, I am also known for my enthusiasm, sociability, and leadership qualities.                                                
+  I am a resilient and optimistic individual who embraces challenges with a proactive attitude. Believing in the law of attraction, I am dedicated to continuous skill development and expertise enhancement. Skilled in implementing ideas and maintaining organizational efficiency, I bring reliability, efficiency, and strong self-discipline to my work. Confident in presenting ideas and achieving goals systematically, I am also known for my enthusiasm, sociability, and leadership qualities.
+- Linkendin Profile   https://www.linkedin.com/in/siyu-chen-s0129/                                             
 
 <!---
 XXXSIYU/XXXSIYU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
